@@ -6,7 +6,7 @@ public class HelloFromTwoPieces {
     }
 
     static String a() {
-        return "hello";
+        return "A";
     }
 
     static String b() {
