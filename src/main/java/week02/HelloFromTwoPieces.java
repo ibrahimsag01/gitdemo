@@ -10,6 +10,6 @@ public class HelloFromTwoPieces {
     }
 
     static String b() {
-        return "world";
+        return "B";
     }
 }
